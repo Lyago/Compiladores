@@ -1,0 +1,31 @@
+*-- 
+exemplo 1 
+Demo das operações básicas envolvendo ints e floats em ambas notações,
+convencional e prefixa(polonesa) 
+--*
+ 
+2+1
+2.0+1.1
+3*2
+3*2.5
+4/2
+1+3*2
+1+6/2
+3*2/2
+2/2*3
+(2+2)*((12-6)/3)
+
+*--exemplos em pol --*
+pol +2 1
+pol +2.0 1.1
+pol *3 2
+pol *3 2.5
+pol /4 2
+pol +1 *3 2 
+pol +1 /6 2
+pol /*3 2 2
+pol */2 2 3
+pol *+2 2 /-12 6 3
+
+
+
